@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "CARTASSUPERTRUNFO.C": "cpp"
+        "CARTASSUPERTRUNFO.C": "cpp",
+        "SUPERTRUNFO_MESRTE.C": "cpp"
     }
 }
